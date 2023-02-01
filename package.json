@@ -1,0 +1,14 @@
+{
+  "name": "stockapp",
+  "version": "1.0.0",
+  "description": "App de Control de Stock",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Vallejos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
